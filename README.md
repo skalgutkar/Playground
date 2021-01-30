@@ -8,6 +8,8 @@ This repository is a **sandbox** for all my **docs-as-code** experiments.
 Here's what I do:
 -  Technical documentation
 -  UX writing
+-  Markdown
+-  Webiste creation
 -  Reading
 
 # What are my favorite activities?
@@ -15,3 +17,4 @@ Here's the list of my favorite activities in the order that I like them:
 1.  [Traveling](https://google.com)
 2.  Cooking
 3.  Reading
+This file has been edited by Serena.
