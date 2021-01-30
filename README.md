@@ -9,7 +9,7 @@ Here's what I do:
 -  Technical documentation
 -  UX writing
 -  Markdown
--  Webiste creation
+-  Website creation
 -  Reading
 
 # What are my favorite activities?
