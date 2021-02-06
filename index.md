@@ -10,7 +10,7 @@ Schitt's Creek (styled Schitt$ Creek on the main title) is a Canadian television
 
 Data file contents:
 {% for item in site.data.demo %}
-The country of {{ item.name }} was created in {{ item.data }}.
+The country of {{ item.name }} was created in {{ item.date }}.
 {% endfor %}
 
 #**{{page.section}}**
