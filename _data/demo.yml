@@ -1,6 +1,18 @@
--  name: India
-   date: 1947
-   flag: tricolor
--  name: Pakistan
-   date: 1947
-   flag: crescentmoon
+-  Character: Johnny Rose
+   Actor: Eugene Levy
+   Category: Main
+-  Character: Moira Rose
+   Actor: Catherine O'Hara
+   Category: Main
+-  Character: David Rose
+   Actor: Dan Levy
+   Category: Main
+-  Character: Alexis Rose
+   Actor: Annie Murphy
+   Category: Main
+-  Character: Ray Butani
+   Actor: Rizwan Manji
+   Category: Recurring
+-  Character: Emir Kaplan
+   Actor: Ennis Esmer
+   Category: Recurring    
