@@ -7,7 +7,7 @@ title: Cast
 
 {% for item in site.data.demo %}
 
--  Character: {{ item.Character}}
+-  Character: {{ item.Character }}
 -  Actor: {{ item.Actor }}
 -  Category: {{ item.Category }}
 
