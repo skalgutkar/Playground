@@ -3,7 +3,7 @@ layout: PageLayout
 title: Episodes
 ---
 
-#{{page.title}}
+{{page.title}}
 |Season|Episodes|
 |:---:|:---:|
 |1|13|

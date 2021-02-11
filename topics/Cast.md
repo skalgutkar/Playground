@@ -3,7 +3,7 @@ layout: PageLayout
 title: Cast
 ---
 
-#{{page.title}}
+{{page.title}}
 
 {% for item in site.data.demo %}
 |
